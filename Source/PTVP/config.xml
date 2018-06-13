@@ -1,0 +1,5 @@
+<configuration>
+    <command>pdflatex</command>
+    <arg value="--interaction=nonstopmode"/>
+    <arg value="--shell-escape"/>
+</configuration>
